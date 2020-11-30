@@ -1,0 +1,10 @@
+<svg viewBox="0 -3 20 23" xmlns="http://www.w3.org/2000/svg" stroke="black" fill="none">
+  <path d="M 0 0 
+           a 9, 9, 0, 0, 1, 10, 0
+           l 0, 15
+           a 9, 9, 0, 0, 1, -10, 0
+	   l 0, -15"/>
+   <circle cx="5" cy="7.5" r="30" />
+
+
+</svg>
